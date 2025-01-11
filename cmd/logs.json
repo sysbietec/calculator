@@ -1,0 +1,60 @@
+{"level":"info","msg":"Valor total de ICMS calculado","time":"2025-01-10T21:10:12-03:00","total_icms":0}
+{"level":"info","msg":"Origem do produto consultada","origem_prod":"2","time":"2025-01-10T21:10:12-03:00"}
+{"level":"info","msg":"Origem Unimarcas determinada","origemUnimarcas":"ESTRANGEIRO","time":"2025-01-10T21:10:12-03:00"}
+{"icmsEfetivo":0.18,"level":"info","msg":"ICMS Efetivo calculado","time":"2025-01-10T21:10:12-03:00"}
+{"difal":0.13999999999999999,"level":"info","msg":"Difal calculado","time":"2025-01-10T21:10:12-03:00"}
+{"Difal":0.13999999999999999,"IcmsEfetivo":0.18,"level":"info","msg":"ICMS Efetivo e Difal ajustados","time":"2025-01-10T21:10:12-03:00"}
+{"CostFire":{"Sku":"10639031_0_0_U","Cod_produto":"29616","Departamento":2,"Comissao":16.5,"Frete":65.95},"Parameters":{"LucroAdicionalDesejado":0,"LucroPadraoDesejado":0.06,"ImpostoFederal":0.015,"Operacao":0.05,"CustoFixo":0.07,"AliquotaPis":0.0165,"AliquotaCofins":0.076,"Rebate":0.15,"Fcp":0.0025,"RedutorPadrao":0.6},"PriceInput":{"IcmsMedio":20.986665725708008,"PisCofinsMedio":49.01513671875,"CustoMedioLiq":459.8915710449219,"CustoMedioNF":529.8933715820312,"IcmsEfetivo":0.18,"IcmsEfetivoPR":0,"IcmsMinas":0,"IcmsTriangular":0,"Difal":0.13999999999999999},"level":"info","msg":"Valores recebidos para cálculo","time":"2025-01-10T21:10:12-03:00"}
+{"icmsMedioCalc":8.394666290283203,"level":"info","msg":"Valores calculados de ICMS e Pis/Cofins","pisCofinsCalc":19.606054687500002,"time":"2025-01-10T21:10:12-03:00"}
+{"custoMedio":487.8922920227051,"level":"info","msg":"Custo médio calculado","time":"2025-01-10T21:10:12-03:00"}
+{"i1":0.0555,"level":"info","msg":"Valor de i1 calculado","time":"2025-01-10T21:10:12-03:00"}
+{"i2":0.04000000000000001,"i3":0.11,"i4":0.89,"level":"info","msg":"Valores intermediários calculados (i2, i3, i4, res1)","res1":0.049395,"time":"2025-01-10T21:10:12-03:00"}
+{"i6":0.108,"i7":0.024000000000000004,"i8":0.16399999999999998,"i9":0.13599999999999998,"level":"info","msg":"Valores intermediários calculados (i6, i7, i8, i9)","time":"2025-01-10T21:10:12-03:00"}
+{"Comissao":0.165,"Fcp":0.0025,"LucroPadraoDesejado":0.06,"Operacao":0.05,"level":"info","msg":"Calculando res3","time":"2025-01-10T21:10:12-03:00"}
+{"level":"info","msg":"Valor de res3 calculado","res3":0.2775,"time":"2025-01-10T21:10:12-03:00"}
+{"i9":0.13599999999999998,"level":"info","msg":"Cálculo final do imposto","res1":0.049395,"res3":0.2775,"time":"2025-01-10T21:10:12-03:00"}
+{"imposto":0.5371049999999999,"level":"info","msg":"Imposto calculado","time":"2025-01-10T21:10:12-03:00"}
+{"CustoMedioNF":529.8933715820312,"Frete":65.95,"FreteRebate":65.95,"Rebate":0.15,"custoMedio":487.8922920227051,"level":"info","msg":"Detalhamento do cálculo de valorFinal","time":"2025-01-10T21:10:12-03:00"}
+{"level":"info","msg":"Valor final calculado","time":"2025-01-10T21:10:12-03:00","valorFinal":1034.4787811294354}
+{"calculation_details":"{\n  \"Preço Tabela U02\": 1034.4787811294354,\n  \"comissao\": 16.5,\n  \"custo_medio_calc\": 487.8922920227051,\n  \"custo_medio_liq\": 459.8915710449219,\n  \"custo_medio_nf\": 529.8933715820312,\n  \"difal\": 0.13999999999999999,\n  \"fcp\": 0.0025,\n  \"frete\": 65.95,\n  \"icms_efetivo\": 0.18,\n  \"icms_medio_calc\": 8.394666290283203,\n  \"lucro_padrao\": 0.06,\n  \"operacao\": 0.05,\n  \"pis_cofins_calc\": 19.606054687500002,\n  \"rebate\": 0.15,\n  \"sku\": \"10639031\"\n}","level":"info","msg":"Detalhes completos do cálculo gerados","time":"2025-01-10T21:10:12-03:00"}
+{"level":"info","msg":"Servidor na porta 8080...","time":"2025-01-10T21:12:00-03:00"}
+{"level":"info","msg":"Valor total de ICMS calculado","time":"2025-01-10T21:12:05-03:00","total_icms":0}
+{"level":"info","msg":"Origem do produto consultada","origem_prod":"2","time":"2025-01-10T21:12:05-03:00"}
+{"level":"info","msg":"Origem Unimarcas determinada","origemUnimarcas":"ESTRANGEIRO","time":"2025-01-10T21:12:05-03:00"}
+{"icmsEfetivo":0.18,"level":"info","msg":"ICMS Efetivo calculado","time":"2025-01-10T21:12:05-03:00"}
+{"difal":0.13999999999999999,"level":"info","msg":"Difal calculado","time":"2025-01-10T21:12:05-03:00"}
+{"Difal":0.13999999999999999,"IcmsEfetivo":0.18,"level":"info","msg":"ICMS Efetivo e Difal ajustados","time":"2025-01-10T21:12:05-03:00"}
+{"CostFire":{"Sku":"10639031_0_0_U","Cod_produto":"29616","Departamento":2,"Comissao":16.5,"Frete":65.95},"Parameters":{"LucroAdicionalDesejado":0,"LucroPadraoDesejado":0.06,"ImpostoFederal":0.015,"Operacao":0.05,"CustoFixo":0.07,"AliquotaPis":0.0165,"AliquotaCofins":0.076,"Rebate":0.15,"Fcp":0.0025,"RedutorPadrao":0.6},"PriceInput":{"IcmsMedio":20.986665725708008,"PisCofinsMedio":49.01513671875,"CustoMedioLiq":459.8915710449219,"CustoMedioNF":529.8933715820312,"IcmsEfetivo":0.18,"IcmsEfetivoPR":0,"IcmsMinas":0,"IcmsTriangular":0,"Difal":0.13999999999999999},"level":"info","msg":"Valores recebidos para cálculo","time":"2025-01-10T21:12:05-03:00"}
+{"icmsMedioCalc":8.394666290283203,"level":"info","msg":"Valores calculados de ICMS e Pis/Cofins","pisCofinsCalc":19.606054687500002,"time":"2025-01-10T21:12:05-03:00"}
+{"custoMedio":487.8922920227051,"level":"info","msg":"Custo médio calculado","time":"2025-01-10T21:12:05-03:00"}
+{"i1":0.0555,"level":"info","msg":"Valor de i1 calculado","time":"2025-01-10T21:12:05-03:00"}
+{"i2":0.04000000000000001,"i3":0.11,"i4":0.89,"level":"info","msg":"Valores intermediários calculados (i2, i3, i4, res1)","res1":0.049395,"time":"2025-01-10T21:12:05-03:00"}
+{"i6":0.108,"i7":0.024000000000000004,"i8":0.16399999999999998,"i9":0.13599999999999998,"level":"info","msg":"Valores intermediários calculados (i6, i7, i8, i9)","time":"2025-01-10T21:12:05-03:00"}
+{"Comissao":0.165,"Fcp":0.0025,"LucroPadraoDesejado":0.06,"Operacao":0.05,"level":"info","msg":"Calculando res3","time":"2025-01-10T21:12:05-03:00"}
+{"level":"info","msg":"Valor de res3 calculado","res3":0.2775,"time":"2025-01-10T21:12:05-03:00"}
+{"i9":0.13599999999999998,"level":"info","msg":"Cálculo final do imposto","res1":0.049395,"res3":0.2775,"time":"2025-01-10T21:12:05-03:00"}
+{"imposto":0.5371049999999999,"level":"info","msg":"Imposto calculado","time":"2025-01-10T21:12:05-03:00"}
+{"CustoMedioNF":529.8933715820312,"Frete":65.95,"FreteRebate":65.95,"Rebate":0.15,"custoMedio":487.8922920227051,"level":"info","msg":"Detalhamento do cálculo de valorFinal","time":"2025-01-10T21:12:05-03:00"}
+{"level":"info","message":"Iniciando agora simulador de lucro","msg":"","time":"2025-01-10T21:12:05-03:00"}
+{"level":"info","msg":"Valor final calculado","time":"2025-01-10T21:12:05-03:00","valorFinal":1022.6095935404167}
+{"calculation_details":"{\n  \"Lucro Simulado\": 0.0015114296495397166,\n  \"Preço Tabela U02\": 1022.6095935404167,\n  \"comissao\": 16.5,\n  \"custo_medio_calc\": 487.8922920227051,\n  \"custo_medio_liq\": 459.8915710449219,\n  \"custo_medio_nf\": 529.8933715820312,\n  \"difal\": 0.13999999999999999,\n  \"fcp\": 0.0025,\n  \"frete\": 65.95,\n  \"icms_efetivo\": 0.18,\n  \"icms_medio_calc\": 8.394666290283203,\n  \"lucro_padrao\": 0.06,\n  \"operacao\": 0.05,\n  \"pis_cofins_calc\": 19.606054687500002,\n  \"rebate\": 0.15,\n  \"sku\": \"10639031\"\n}","level":"info","msg":"Detalhes completos do cálculo gerados","time":"2025-01-10T21:12:05-03:00"}
+{"level":"info","msg":"Valor total de ICMS calculado","time":"2025-01-10T21:13:31-03:00","total_icms":4475.610000000004}
+{"level":"info","msg":"Origem do produto consultada","origem_prod":"2","time":"2025-01-10T21:13:31-03:00"}
+{"level":"info","msg":"Origem Unimarcas determinada","origemUnimarcas":"ESTRANGEIRO","time":"2025-01-10T21:13:31-03:00"}
+{"icmsEfetivo":0.088,"level":"info","msg":"ICMS Efetivo calculado","time":"2025-01-10T21:13:31-03:00"}
+{"difal":0.047999999999999994,"level":"info","msg":"Difal calculado","time":"2025-01-10T21:13:31-03:00"}
+{"Difal":0.047999999999999994,"IcmsEfetivo":0.088,"level":"info","msg":"ICMS Efetivo e Difal ajustados","time":"2025-01-10T21:13:31-03:00"}
+{"CostFire":{"Sku":"10636427_0_0_U","Cod_produto":"26873","Departamento":3,"Comissao":17,"Frete":85.95},"Parameters":{"LucroAdicionalDesejado":0,"LucroPadraoDesejado":0.06,"ImpostoFederal":0.015,"Operacao":0.05,"CustoFixo":0.07,"AliquotaPis":0.0165,"AliquotaCofins":0.076,"Rebate":0.15,"Fcp":0.0025,"RedutorPadrao":0.6},"PriceInput":{"IcmsMedio":0,"PisCofinsMedio":96.68375020566194,"CustoMedioLiq":857.9194426460141,"CustoMedioNF":989.6746294900645,"IcmsEfetivo":0.088,"IcmsEfetivoPR":0,"IcmsMinas":0,"IcmsTriangular":0,"Difal":0.047999999999999994},"level":"info","msg":"Valores recebidos para cálculo","time":"2025-01-10T21:13:31-03:00"}
+{"icmsMedioCalc":0,"level":"info","msg":"Valores calculados de ICMS e Pis/Cofins","pisCofinsCalc":38.67350008226478,"time":"2025-01-10T21:13:31-03:00"}
+{"custoMedio":896.5929427282789,"level":"info","msg":"Custo médio calculado","time":"2025-01-10T21:13:31-03:00"}
+{"i1":0.0555,"level":"info","msg":"Valor de i1 calculado","time":"2025-01-10T21:13:31-03:00"}
+{"i2":0.04,"i3":0.064,"i4":0.9359999999999999,"level":"info","msg":"Valores intermediários calculados (i2, i3, i4, res1)","res1":0.051947999999999994,"time":"2025-01-10T21:13:31-03:00"}
+{"i6":0.05279999999999999,"i7":0.024,"i8":0.072,"i9":0.0624,"level":"info","msg":"Valores intermediários calculados (i6, i7, i8, i9)","time":"2025-01-10T21:13:31-03:00"}
+{"Comissao":0.17,"Fcp":0.0025,"LucroPadraoDesejado":0.06,"Operacao":0.05,"level":"info","msg":"Calculando res3","time":"2025-01-10T21:13:31-03:00"}
+{"level":"info","msg":"Valor de res3 calculado","res3":0.28250000000000003,"time":"2025-01-10T21:13:31-03:00"}
+{"i9":0.0624,"level":"info","msg":"Cálculo final do imposto","res1":0.051947999999999994,"res3":0.28250000000000003,"time":"2025-01-10T21:13:31-03:00"}
+{"imposto":0.6031519999999999,"level":"info","msg":"Imposto calculado","time":"2025-01-10T21:13:31-03:00"}
+{"CustoMedioNF":989.6746294900645,"Frete":85.95,"FreteRebate":85.95,"Rebate":0.15,"custoMedio":896.5929427282789,"level":"info","msg":"Detalhamento do cálculo de valorFinal","time":"2025-01-10T21:13:31-03:00"}
+{"level":"info","message":"Iniciando agora simulador de lucro","msg":"","time":"2025-01-10T21:13:31-03:00"}
+{"level":"info","msg":"Valor final calculado","time":"2025-01-10T21:13:31-03:00","valorFinal":1624.046988193987}
+{"calculation_details":"{\n  \"Lucro Simulado\": -0,\n  \"Preço Tabela U02\": 1624.046988193987,\n  \"comissao\": 17,\n  \"custo_medio_calc\": 896.5929427282789,\n  \"custo_medio_liq\": 857.9194426460141,\n  \"custo_medio_nf\": 989.6746294900645,\n  \"difal\": 0.047999999999999994,\n  \"fcp\": 0.0025,\n  \"frete\": 85.95,\n  \"icms_efetivo\": 0.088,\n  \"icms_medio_calc\": 0,\n  \"lucro_padrao\": 0.06,\n  \"operacao\": 0.05,\n  \"pis_cofins_calc\": 38.67350008226478,\n  \"rebate\": 0.15,\n  \"sku\": \"10636427\"\n}","level":"info","msg":"Detalhes completos do cálculo gerados","time":"2025-01-10T21:13:31-03:00"}
